@@ -5,3 +5,5 @@ Proyecto desarrollado por:
 * Danny Alejandro Martinez Duque - 2185738
 * Brian León Hoyos - 2180428
 * Gregson Murcia Castro
+
+Más información en: https://drive.google.com/drive/folders/11JoJnl8aQmYLxBZ1N0zPUOnEKZXanDL7?usp=sharing
